@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="Temporizador" content="width=device-width, initial-scale=1.0">
+  <title>Meus objetivos do ano</title>
+</head
+<body>
+
+</body>
+</html>
+<!-- código omitido -->
+<body>
+        <section class="conteudo-principal"></section>
+</body>
+</html>
+<body>
+        <section class="conteudo-principal"></section>
+            <h2 class="titulo-principal">Objetivo 1_</h2>
+</body>
+</html>
+<body>
+        <section class="conteudo-principal"></section>
+            <h2 class="titulo-principal">Objetivo 2_</h2>
+            <div class="botoes"></div>
+</body>
+</html>
+<body>
+  <section class="conteudo-principal">
+    <h2 class="titulo-principal">Objetivo 3_</h2>
+    <div class="botoes">
+      <button class="botao">Cursos na Alura</button>
+      <button class="botao">Criar projetos em JavaScript</button>
+      <button class="botao">Criar um portfólio</button>
+      <button class="botao">Atualizar meu currículo</button>
+    </div>
+  </section>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meus objetivos do ano</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+:root{
+    --cor-de-fundo: #92893E;
+}
+:root{
+    --cor-de-fundo: #1E1E1E;
+    --verde: #000000;
+    --branco: #FFFFFF;
+    --botao-ativo: #060047;
+}
+:root{
+    --cor-de-fundo: #1E1E1E;
+    --verde: #000000;
+    --branco: #FFFFFF;
+    --botao-ativo: #92893E;
+    --botao-inativo: rgba(58, 55, 94, 0.5);
+    --texto-fundo: rgba(58, 55, 94, 0.3);
+}
+@import url('https://fonts.googleapis.com/css2?family-Chakra+Petch:w ght@400:700&display=swap'); 
+body{
+    background-color: var(--cor-de-fundo);
+}
+@import url('https://fonts.googleapis.com/css?family=Chakra+Petch:wght@400;700&display=swap');
+
+:root {
+  --cor-de-fundo: #161618;
+  --verde: #000000;
+  --branco: #FFFFFF;
+  --botao-ativo: #92893E;
+  --botao-inativo: rgba(58, 55, 94, 0.5);
+  --texto-fundo: rgba(58, 55, 94, 0.3);
+}
+
+body {
+  background-color: var(--cor-de-fundo);
+  color: var(--branco);
+  font-family: 'Chakra Petch', sans-serif;
+  display: flex;
+  justify-content: center;
+  padding: 1vw;
+  font-size: 18px;
+  align-items: center;
+  width: 100%;
+  border-bottom: 4px solid var(--botao-ativo);
+  border-left: 4px solid var(--botao-ativo);
+  border-right: 4px solid var(--botao-ativo)
+}
+
+@inedia screen and (n1n-width: 768px) {
+     .botoes{
+       display; flex;
+     }
+}
